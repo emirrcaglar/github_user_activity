@@ -2,7 +2,7 @@
 
 this is a project based on https://roadmap.sh/projects/github-user-activity
 
-when provided with a github username as an argument, this code shows the last activities of the user.
+when provided with a github username as an argument, it prints the last activities of the user to the terminal.
 
 >>- changed to public: emirrcaglar/PDP-Odev-1
 >>- pushed 13 commit(s) to emirrcaglar/microblog-flask
