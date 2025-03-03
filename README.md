@@ -1,5 +1,7 @@
 ## Github User Activity CLI App
 
+this is a project based on https://roadmap.sh/projects/github-user-activity
+
 when provided with a github username as an argument, this code shows the last activities of the user.
 
 >>- changed to public: emirrcaglar/PDP-Odev-1
