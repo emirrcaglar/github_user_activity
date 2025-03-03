@@ -25,7 +25,7 @@ def process_events(events):
             push_count += 1        
         else:
             if push_count > 0:
-                results.append(f"pushed {push_count} commits to {repo_name}")
+                results.append(f"- pushed {push_count} commit(s) to {repo_name}")
                 push_count = 0
 
             event_description = get_event_description(event_type, repo_name)
